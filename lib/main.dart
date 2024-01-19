@@ -23,8 +23,12 @@ class _MyAppState extends State<MyApp> {
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Containder(
-                
+              Container(
+                color: Colors.blue,
+                padding: EdgeInsets.all(35),
+                margin: EdgeInsets.all(20),
+                width: 300,
+                height: 200,
               )
             ],
           ),
