@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
         body: Container(
           color: Colors.purple,
           height: 200.0, 
-          width: 300.0,
+          width: 3000.0,
           child: Center(
             child: Text("jjjj"),
           ),
