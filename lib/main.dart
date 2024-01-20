@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
                 color: Colors.blue,
                 padding: EdgeInsets.all(35),
                 margin: EdgeInsets.all(20),
-                width: 320,
+                width: 3200,
                 height: 220,
               )
             ],
