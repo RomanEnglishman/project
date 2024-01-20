@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
                 padding: EdgeInsets.all(35),
                 margin: EdgeInsets.all(20),
                 width: 3200,
-                height: 2200,
+                height: 220,
               )
             ],
           ),
