@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
           height: 200.0, 
           width: 300.0,
           child: Center(
-            child: Text("jjjj"),
+            child: Text("jj"),
           ),
         ),
       ),
